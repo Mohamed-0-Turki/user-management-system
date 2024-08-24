@@ -1,0 +1,7 @@
+@import '~@fortawesome/css/fontawesome.css';
+@import '~@fortawesome/css/regular.css';
+@import '~@fortawesome/css/solid.css';
+@import '~@fortawesome/css/brands.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
